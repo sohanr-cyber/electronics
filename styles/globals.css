@@ -167,7 +167,7 @@ textarea {
 button {
   border: none;
   font-family: 'Ubuntu', sans-serif;
-  border-radius: 0px;
+  border-radius: 5px;
   background: var(--buttonBg);
   color: var(--buttonC);
   cursor: pointer;
